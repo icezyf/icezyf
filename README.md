@@ -38,5 +38,9 @@ Here are some ideas to get you started:
 > “The goal is to turn data into information, and information into insight.”
 — Carly Fiorina, former CEO of Hewlett-Packard
 
-Therefore, here I am pursuing any data relevant positions. Feel free to contact me via email: data_fans@outlook.com
+Therefore, here I am pursuing any data relevant positions. 
+
+### **Personal Media & Webs:** ###
+- 📫 Email: data_fans@outlook.com
+- 📝 LinkedIn: [Crystella Zheng](www.linkedin.com/in/crystellazheng)
 
