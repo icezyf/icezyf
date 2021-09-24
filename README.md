@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🖨 Freelance Technical Writer on [Medium.com](https://medium.com/@crystellazheng)
 
 ### **My Hobbies:** ###
-- 🎦 Watching movies and 
+- 🎦 Watching movie
 - 📚 Reading
 - 🥗 Foodie
 - 🏝 Travel
