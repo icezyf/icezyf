@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ✈️  Places where I've worked: Dubai, Abu Dhabi, Sanya, Shenzhen, San Francisco
 
 ### **My Current:** ###
-- 💻 Finished Data Science courses in Bootcamp
+- 💻 Finished Data Science Program in Bootcamp
 - 👩‍💻 Good coding: Python, SQL, Spark
 - ⌨️ Expertises: Tableau, Excel, Googld Sheet, Agile Methodologies 
 - 🖨 Freelance Technical Writer on [Medium.com](https://medium.com/@crystellazheng)
