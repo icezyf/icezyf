@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - 🏝 Travel
 - 🔢 Number Fascinator 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 > “The goal is to turn data into information, and information into insight.”
 — Carly Fiorina, former CEO of Hewlett-Packard
