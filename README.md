@@ -43,6 +43,6 @@ Therefore, here I am pursuing any data relevant positions.
 
 ### **Personal Media & Webs:** ###
 - 📫 Email: data_fans@outlook.com
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/crystellazheng)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystellazheng)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
