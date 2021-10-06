@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 Therefore, here I am pursuing any data relevant positions. 
 
 ### **Personal Media & Webs:** ###
-- [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](crystellazheng@hotmail.com)
+- ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)crystellazheng@hotmail.com
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystellazheng)
 - ![Twitter](https://img.shields.io/badge/<crystella_fafa>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
