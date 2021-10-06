@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here are some ideas to get you started:
+> “The goal is to turn data into information, and information into insight.”
+— Carly Fiorina, former CEO of Hewlett-Packard
 
 ### **My Current:** ###
 - ![LaiOffer Bootcamp](https://img.shields.io/badge/LaiOffer%20Bootcamp-AI%20and%20Data%20Engineering%20Program%20-brightgreen)
@@ -34,11 +35,6 @@ Here are some ideas to get you started:
 - 🥗 Foodie
 - 🏝 Travel
 - 🔢 Number Fascinator 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-> “The goal is to turn data into information, and information into insight.”
-— Carly Fiorina, former CEO of Hewlett-Packard
 
 Therefore, here I am pursuing any data relevant positions. 
 
