@@ -44,3 +44,5 @@ Therefore, here I am pursuing any data relevant positions.
 - 📫 Email: data_fans@outlook.com
 - 📝 LinkedIn: [Crystella Zheng](www.linkedin.com/in/crystellazheng)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
