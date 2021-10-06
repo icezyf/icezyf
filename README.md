@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💻 Finished Data Science Program in Bootcamp
 - 👩‍💻 
 - ⌨️ Expertises: Tableau, Excel, Googld Sheet, Agile Methodologies 
-- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)[Crystella's Medium.com](https://medium.com/@crystellazheng)
+- ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)[Crystella's Medium.com](https://medium.com/@crystellazheng)
 
 ### **My Hobbies:** ###
 - 🎦 Watching movie
