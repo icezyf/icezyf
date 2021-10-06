@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### **My Past:** ###
 - 🏨  7+ years of hotel management
-- 📊 Experiences: business operations, asset management, operations management, data reporting, cost control, strategic planning, people management, budget planing
+- 📊 Experiences: business operations, asset management, operations management, data reporting, cost control, strategic planning, people management, budget planing, reporting analytics
 - ✈️  Places where I've worked: Dubai, Abu Dhabi, Sanya, Shenzhen, San Francisco
 
 ### **My Hobbies:** ###
