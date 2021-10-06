@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💻 Finished Data Science Program in Bootcamp
 - 👩‍💻 Good coding: Python, SQL, Spark
 - ⌨️ Expertises: Tableau, Excel, Googld Sheet, Agile Methodologies 
-- 🖨 [![Crystella's Medium.com](https://github-readme-medium.vercel.app/?username=crystellazheng)](https://medium.com/@crystellazheng)
+- 🖨 ![Crystella's Medium.com](https://github-readme-medium.vercel.app/?username=crystellazheng)](https://medium.com/@crystellazheng)
 
 ### **My Hobbies:** ###
 - 🎦 Watching movie
@@ -45,4 +45,3 @@ Therefore, here I am pursuing any data relevant positions.
 - 📝 LinkedIn: [Crystella Zheng](www.linkedin.com/in/crystellazheng)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
