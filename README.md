@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### **My Current:** ###
 - 💻 Finished Data Science Program in Bootcamp
-- 👩‍💻 
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 - ⌨️ Expertises: Tableau, Excel, Googld Sheet, Agile Methodologies 
 - ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)[Crystella's Medium.com](https://medium.com/@crystellazheng)
 
