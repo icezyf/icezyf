@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 — Carly Fiorina, former CEO of Hewlett-Packard
 
 ### **My Current:** ###
-- Sales & Marketing Analyst in a Career Consulting Startup
+- **Sales & Marketing Analyst in a Career Consulting Startup of the San Francisco Bay Area**
 - ![LaiOffer Bootcamp](https://img.shields.io/badge/LaiOffer%20Bootcamp-AI%20and%20Data%20Engineering%20Program%20-brightgreen)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
