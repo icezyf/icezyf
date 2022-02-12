@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 > “The goal is to turn data into information, and information into insight.”
 — Carly Fiorina, former CEO of Hewlett-Packard
 
-I am pursuing any data relevant positions. 
-
 ### **My Current:** ###
 - ![LaiOffer Bootcamp](https://img.shields.io/badge/LaiOffer%20Bootcamp-AI%20and%20Data%20Engineering%20Program%20-brightgreen)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +25,7 @@ I am pursuing any data relevant positions.
 - [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@crystellazheng)[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/icezyf)
 
 ### **My Past:** ###
-- 🏨  7+ years of hotel management
+- 🏨  8+ years of hotel management
 - 📊 Experiences: business operations, asset management, operations management, data reporting, cost control, strategic planning, people management, budget planing, reporting analytics
 - ✈️  Places where I've worked: Dubai, Abu Dhabi, Sanya, Shenzhen, San Francisco
 
