@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ### **My Current:** ###
 - **Cost Analyst (Pricing Strategy) in one of the top-tier hardware companies in San Jose, CA**
-- ![LaiOffer Bootcamp](https://img.shields.io/badge/LaiOffer%20Bootcamp-AI%20and%20Data%20Engineering%20Program%20-brightgreen)
 
 
 ### **My Past:** ###
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 
 ### **My Hobbies:** ###
 - 🔢 Number Fascinator 
-- 🎦 Watching movie
+- 🎦 Watching movies
 - 📚 Reading
 - 🥗 Foodie
 - 🏝 Travel
