@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### **My Past:** ###
 - 🏨  9+ years of operations management + Sales & Marketing Analyst
-- 📊 Experiences: data analytics, data visualization, data reporting, cost control, forecast planning, inventory management, vendor negotiation, people management, budget planning, reporting analytics, field operations, business operations
-- ✈️  Places where I've studied: Guangzhou(CN),Geneva(CH), San Jose(US)
+- :computer: Experiences: data analytics, data visualization, data reporting, cost control, forecast planning, inventory management, vendor negotiation, people management, budget planning, reporting analytics, field operations, business operations
+- :school: Places where I've studied: Guangzhou(CN),Geneva(CH), San Jose(US)
 - :office: Places where I've worked: Dubai(UAE), Abu Dhabi(UAE), Sanya(CN), Shenzhen(CN), San Francisco(US)
 
 ### **My Hobbies:** ###
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### **Personal Media & Webs:** ###
 - [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@crystellazheng)
-- ![Outlook](https://img.shields.io/badge/Outlook-crystellazheng%40hotmail.com-orange)
+- :e-mail:![Outlook](https://img.shields.io/badge/Outlook-crystellazheng%40hotmail.com-orange)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystellazheng)
 - ![Twitter](https://img.shields.io/badge/<crystella_fafa>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
