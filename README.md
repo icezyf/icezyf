@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> “The goal is to turn data into information, and information into insight.”
-— Carly Fiorina, former CEO of Hewlett-Packard
+> 
 
 ### **My Current:** ###
 - **Sales & Marketing Analyst in a Career Consulting Startup of the San Francisco Bay Area**
