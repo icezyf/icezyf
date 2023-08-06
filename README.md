@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - ![Outlook](https://img.shields.io/badge/Outlook-crystellazheng%40hotmail.com-orange)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystellazheng)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
