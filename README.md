@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### **My Past:** ###
 - 🏨  9+ years of operations management + Sales & Marketing Analyst
-- 📊 Experiences: data analytics, data visualization, business operations, data reporting, cost control, strategic planning, people management, budget planning, reporting analytics, field operations
+- 📊 Experiences: data analytics, data visualization, data reporting, cost control, forecast planning, inventory management, vendor negotiation, people management, budget planning, reporting analytics, field operations, business operations
 - ✈️  Places where I've worked: Dubai, Abu Dhabi, Sanya, Shenzhen, San Francisco
 
 ### **My Hobbies:** ###
