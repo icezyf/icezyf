@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### **Personal Media & Webs:** ###
 - [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@crystellazheng)
-- :e-mail:![Outlook](https://img.shields.io/badge/Outlook-crystellazheng%40hotmail.com-orange)
+- :e-mail: ![Outlook](https://img.shields.io/badge/Outlook-crystellazheng%40hotmail.com-orange)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystellazheng)
 - ![Twitter](https://img.shields.io/badge/<crystella_fafa>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
