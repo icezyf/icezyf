@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🏨  9+ years of operations management + Sales & Marketing Analyst
 - 📊 Experiences: data analytics, data visualization, data reporting, cost control, forecast planning, inventory management, vendor negotiation, people management, budget planning, reporting analytics, field operations, business operations
 - ✈️  Places where I've studied: Guangzhou(CN),Geneva(CH), San Jose(US)
-- ✈️  Places where I've worked: Dubai(UAE), Abu Dhabi(UAE), Sanya(CN), Shenzhen(CN), San Francisco(US)
+- :office: Places where I've worked: Dubai(UAE), Abu Dhabi(UAE), Sanya(CN), Shenzhen(CN), San Francisco(US)
 
 ### **My Hobbies:** ###
 - 🔢 Number Fascinator 
