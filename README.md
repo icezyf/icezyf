@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
 ### **My Past:** ###
-- 🏨  9+ years of operations management + Sales & Marketing Analyst
-- :computer: Experiences: data analytics, data visualization, data reporting, cost control, forecast planning, inventory management, vendor negotiation, people management, budget planning, reporting analytics, field operations, business operations
-- :school: Places where I've studied: Guangzhou(CN),Geneva(CH), San Jose(US)
+- :computer: 9+ years of operations management + Sales & Marketing Analyst
+- :bar_chart: Experiences: data analytics, data visualization, data reporting, cost control, forecast planning, inventory management, vendor negotiation, people management, budget planning, reporting analytics, field operations, business operations
+- :books: Places where I've studied: Guangzhou(CN),Geneva(CH), San Jose(US)
 - :office: Places where I've worked: Dubai(UAE), Abu Dhabi(UAE), Sanya(CN), Shenzhen(CN), San Francisco(US)
 
 ### **My Hobbies:** ###
